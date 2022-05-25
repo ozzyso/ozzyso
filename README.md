@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozzyso, marketing professional honing digital my skills.
+- 👋 Hi, I’m @ozzyso, marketing professional honing my digital skills.
 - 👀 I’m interested in algo pair partners, job/project and practice opportunities.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on HTML5, CSS and beginner to intermediate Javascript projects.
